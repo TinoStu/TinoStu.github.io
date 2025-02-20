@@ -125,7 +125,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "X"
       icon: "fa-brands fa-x-twitter"
       url: "https://x.com/StuartGleasure"
     - label: "LinkedIn"
