@@ -115,13 +115,11 @@ analytics:
 author:
   name             : "Stuart Gleasure"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Azure Certified - Administrator/Azure Solutions Architect Expert"
+  bio              : "Azure Certified: Administrator/Azure Solutions Architect Expert"
   location         : "Dublin, Ireland"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "test@gmail.com"
+    
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -137,6 +135,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TinoStu"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "stuartgleasure@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
