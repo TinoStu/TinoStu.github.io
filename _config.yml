@@ -137,7 +137,7 @@ author:
       url: "https://github.com/TinoStu"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "stuartgleasure@gmail.com"
+      url: "stuartgleasure@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
