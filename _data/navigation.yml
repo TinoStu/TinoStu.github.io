@@ -13,6 +13,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "CV"
-    url: /cv/  
+    url: /sg_cv/  
   - title: "Certifications"
     url: /certifications/
