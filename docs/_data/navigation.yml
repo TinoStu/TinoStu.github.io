@@ -30,6 +30,10 @@ main:
     url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
+  - title: "Blog"
+    url: /blog/
+  - title: "CV"
+    url: /cv/
 
 
 # documentation links
