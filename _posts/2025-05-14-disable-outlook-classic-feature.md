@@ -25,7 +25,7 @@ tags: # Optional: For finer-grained filtering and SEO
 
 If you still have users within your organisation who are yet to migrate to 'New' Outlook, you may want to consider disabling this Outlook (Classic) option.
 
-Outlook (Classic) (by default) allows users to 'Accept' meeting/event invites without sending a response. In a time where work-from-home (WFH) is more prevalent, this is a feature that can lead to some unnecessary confusion/uncertainty for planning commissons when preparing for in-real-life (IRL) events.
+Outlook (Classic) (by default) allows users to 'Accept' meeting/event invites without sending a response. In a time where work-from-home is more prevalent, this is a feature that can lead to some unnecessary confusion/uncertainty for planning commissons when preparing for in-real-life events.
 
 Your organisations HR department or Sports & Social club may thank you for aiding them in gathering more realistic numbers when planning for the next Work Social or Christmas party!
 

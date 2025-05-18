@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "CV"
-permalink: /sg_cv/
+permalink: /cv/
 ---
 
 Stuart Gleasure
