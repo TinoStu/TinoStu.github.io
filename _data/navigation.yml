@@ -16,3 +16,5 @@ main:
     url: /cv/  
   - title: "Certifications"
     url: /certifications/
+  - title: "Books"
+    url: /books/
