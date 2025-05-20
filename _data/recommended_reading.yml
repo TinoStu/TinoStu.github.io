@@ -14,7 +14,7 @@
     - title: "Microsoft Intune Cookbook"
       subtitle: "Over 75 recipes for configuring, managing, and automating your Mac, Linux, Windows, Android, and iOS endpoints" # Extrapolated from common book descriptions
       authors: "Andrew Taylor" # Extrapolated from common book descriptions
-      image: "/assets/images/microsoft-intune-cookbook.png" # Assumed path, adjust to your actual filename
+      image: "/assets/images/Microsoft-Intune-Cookbook.png" # Assumed path, adjust to your actual filename
       url: "https://www.packtpub.com/en-ie/product/microsoft-intune-cookbook-9781805121213"
       #publisher_logo: "/assets/images/logos/packt_logo.png" # Assuming Packt
 
