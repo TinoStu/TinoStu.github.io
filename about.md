@@ -10,4 +10,4 @@ Adept at managing and optimizing IT infrastructure, providing exceptional techni
 Currently operating as Internal Support function for a Microsoft digital consultancy company in the Dublin area. Supporting hundreds of users & endpoints across Windows and mobile platforms, 
 primarily using the Microsoft technology stack. Reporting Directly to the Customer Success Practice director.
 
-{% include figure image_path="/assets/images/stu-fig.jpg" alt="Stu - Action Figure" caption="Stu - Figurine" class="align-center" %}
+{% include figure image_path="/assets/images/figurine.jpg" alt="Stu - Action Figure" caption="Stu - Figurine" class="align-center" %}
