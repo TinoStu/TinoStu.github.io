@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Stuart Gleasure"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Me.png"
   bio              : "Azure Certified: Administrator/Azure Solutions Architect Expert"
   location         : "Dublin, Ireland"
   email            :
