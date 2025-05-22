@@ -7,3 +7,32 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Change avatar shape to circle - Robust Method */
+.author__avatar {
+    width: 150px !important;
+    height: 150px !important;
+    border-radius: 50% !important;
+    overflow: hidden !important;
+    display: inline-block !important; /* Or block, if inline-block has issues */
+    padding: 0 !important;
+    border: 0 !important; /* More explicit */
+    box-sizing: border-box !important; /* Ensure padding/border are inside width/height */
+    vertical-align: middle; /* Might help with inline-block alignment */
+  }
+  
+  .author__avatar a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: inherit; /* Make 'a' tag also adopt the parent's border-radius */
+    overflow: hidden;       /* Belt and braces for clipping */
+  }
+  
+  .author__avatar img.u-photo {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0; /* Image itself should not have a radius */
+  }
