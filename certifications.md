@@ -129,7 +129,7 @@ permalink: /certifications/
 
 
 <div class="certifications-container">
-    <div class="cert-card">
+<div class="cert-card">
         <img src="/assets/images/az104-badge.png" alt="AZ-104 Badge" class="cert-badge">
         <div class="cert-info">
             <h3>Azure Administrator Associate</h3>
@@ -139,7 +139,7 @@ permalink: /certifications/
             <!--<a href="https://learn.microsoft.com/api/credentials/share/en-us/StuartGleasure-0154/E26B4D82697BF84D?sharingId=84BF06797E61A7DD1" target="_blank" class="cert-link">View Credential</a>-->
          </div>
 </div>
-            <p></p>
+          
 <div class="cert-card">
         <img src="/assets/images/az305-badge.png" alt="AZ-305 Badge" class="cert-badge">
         <div class="cert-info">
@@ -147,6 +147,18 @@ permalink: /certifications/
             <p><strong>Earned:</strong> February 2025 | <strong>Issued by:</strong> Microsoft</p>
             <p><strong>Skills:</strong> Design identity & governance • Data storage solutions • Business continuity solutions • Infrastructure solutions</p>
             <p class="cert-link-wrapper"><a href="https://learn.microsoft.com/api/credentials/share/en-us/StuartGleasure-0154/5B006BDA4A927A05?sharingId=84BF06797E61A7DD1" target="_blank" class="cert-link">View Credential</a></p>
+           <!--<a href="https://learn.microsoft.com/api/credentials/share/en-us/StuartGleasure-0154/5B006BDA4A927A05?sharingId=84BF06797E61A7DD1" target="_blank" class="cert-link">View Credential</a>-->
+        </div>
+    </div>
+
+
+<div class="cert-card">
+        <img src="/assets/images/az500-badge.png" alt="AZ-500 Badge" class="cert-badge">
+        <div class="cert-info">
+            <h3>Azure Security Engineer Associate</h3>
+            <p><strong>Earned:</strong> July 2025 | <strong>Issued by:</strong> Microsoft</p>
+            <p><strong>Skills:</strong> Secure identity & access • Secure Networking • Secure compute, storage, and databases • Secure Azure using Microsoft Defender for Cloud and Microsoft Sentinel</p>
+            <p class="cert-link-wrapper"><a href="https://learn.microsoft.com/api/credentials/share/en-us/StuartGleasure-0154/A5931912785A18C7?sharingId=84BF06797E61A7DD" target="_blank" class="cert-link">View Credential</a></p>
            <!--<a href="https://learn.microsoft.com/api/credentials/share/en-us/StuartGleasure-0154/5B006BDA4A927A05?sharingId=84BF06797E61A7DD1" target="_blank" class="cert-link">View Credential</a>-->
         </div>
     </div>
